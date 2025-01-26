@@ -39,7 +39,7 @@ body {
 }
 
 .gradient-icon i {
-    font-size: 4rem; /* Adjust size */
+    font-size: 4rem; /* Adjust the size as needed */
     background: linear-gradient(to right, #e5063e, #f7c645);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -48,5 +48,5 @@ body {
 
 .gradient-icon:hover i {
     transform: scale(1.2); /* Slight zoom on hover */
-    filter: brightness(1.2); /* Optional hover effect */
+    filter: brightness(1.2); /* Optional for a brighter effect */
 }
